@@ -11,5 +11,5 @@
 - Tableau for data visualisation - [Dashboard](https://public.tableau.com/app/profile/iman.f1527/viz/GlobalCovid-19CasesDashboard/Dashboard)
 
 ### Dashboard
-![DDD](https://github.com/imanfg/Covid-19-Global-Impact/assets/110765955/29c09c55-35e5-4d0e-8351-16d0ce7fe54f)
+![Dashboard](https://github.com/imanfg/Covid-19-Global-Impact/assets/110765955/a21a6ced-be66-4fa1-af9d-7da75bb3fc9b)
 
