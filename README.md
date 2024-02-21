@@ -11,6 +11,6 @@
 
 ### Tools
 - Microsoft SQL Server 2022 for data analysis - [SQL scripts](https://github.com/imanfg/Covid-19-Global-Impact/blob/main/COVID_DataExploration.sql)
-- Tableau for data visualisation - [Dashboard]()
+- Tableau for data visualisation - [Dashboard](https://public.tableau.com/app/profile/iman.f1527/viz/GlobalCovid-19CasesDashboard/Dashboard)
 
 ### Dashboard
